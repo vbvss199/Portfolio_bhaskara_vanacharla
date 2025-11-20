@@ -27,7 +27,6 @@ function HeroSection() {
             I am {' '}
             <span className="text-[#054bad]">{personalData.name}.</span>
             <br/>
-            {`I `}
             <span className=" text-[#008080]">{personalData.designation}.</span>
             
           </h1>
@@ -55,12 +54,6 @@ function HeroSection() {
               className="transition-all text-[#FFA116] hover:scale-125 duration-300"
             >
               <SiLeetcode size={30} />
-            </Link>
-            <Link target="_blank" href={personalData.twitter}>
-              <FaXTwitter
-                 className="transition-all text-[#060c10] rounded-full   hover:scale-125 duration-300"
-                size={30}
-              />
             </Link>
 
           </div>

@@ -2,49 +2,38 @@ export const experiences = [
   {
     id: 1,
     title: 'Software Engineer',
-    company: "Signarama",
-    duration: "(Aug 2024 - June 2025)",
-    tools: ['Python', 'Dialogflow', 'Trello', 'Automation', 'Task Management'],
-    image: '/png/signarama.png',
-    description: 'Developed a chatbot using Python and Dialogflow for internal use, improving onboarding and training efficiency by 20%. Designed and implemented automation solutions for Trello boards to streamline task management, resulting in a 35% increase in efficiency.'
+    company: "General Neuro",
+    duration: "(Jan 2025 - Present)",
+    tools: ['Flutter', 'Dart', 'Firebase', 'OpenAI API', 'Gemini API', 'Sentry', 'OOP', 'Spaced Repetition'],
+    image: '/png/GeneralNeuro.png',
+    description: 'Developed a production-scale Flutter companion app for the NeuroLingo brain stimulation headset supporting 200+ active users. Pioneered AI-powered learning workflows with cloze/MCQ generation and spaced-repetition flashcards using OpenAI and Gemini APIs, supporting multilingual learning across 12 languages (~300k records). Reduced app load time by 95% (from 30-60s to 2-3s) by migrating JSON bundles from Firestore to Firebase Storage and integrated Sentry for error tracking, achieving a 20% reduction in post-release failures.'
   },
   {
     id: 2,
-    title: "Data Science Researcher and Teaching Assistant",
-    company: "University of Maryland",
-    duration: "(May 2023 - Nov 2024)",
-    tools: ['Excel', 'Python', 'Tableau', 'Power BI', 'ETL', 'Data Visualization', 'Natural Language Processing', 'Mentorship'],
-    image: '/png/UMBC.jpg',
-    description: 'Managed 30+ datasets for the Center for Women in Tech assessment, generating 10+ reports and 30+ visualizations using Tableau and Power BI. Mentored 50 students in Natural Language Processing, providing tutoring and feedback. Employed advanced Excel functions and Python for ETL processes and data visualization.'
+    title: "Graduate Assistant and Teaching Assistant",
+    company: "University of New Haven",
+    duration: "(Sep 2024 - Jan 2025)",
+    tools: ['Python', 'PyTorch', 'Machine Learning', 'Neural Networks', 'NLP', 'MPS Acceleration', 'Predictive Modeling'],
+    image: '/png/unh.png',
+    description: 'Built an end-to-end admissions prediction pipeline using PyTorch neural network with MPS acceleration, cutting training time by 50% while maintaining a lightweight model (~6 MB, 13K parameters). Integrated the ML model into admissions workflows, isolating 1,055 high-likelihood enrollees (~8.4% of 12,569 applications) with 81.9% recall, reducing manual review scope by 90%. Mentored 50 students in Natural Language Processing, delivering tutoring sessions and hands-on learning in ML algorithms.'
   },
   {
     id: 3,
     title: 'Software Engineer',
-    company: "Accenture",
-    duration: "(Sept 2021- Aug 2022)",
-    tools: ['ASP.NET','Core MVC', 'MySQL', 'Jenkins', 'CI/CD', 'Unit Testing', 'Performance Optimization', 'Troubleshooting'],
-    image: '/png/accenture.png',
-    description: 'Redesigned an internal time tracker application using ASP.NET Core MVC, improving user experience and increasing reporting efficiency by 25%. Optimized application performance with unit testing and CI/CD pipelines using Jenkins, resulting in a 15-18% increase in page load times. Utilized advanced debugging and automated testing to achieve a 20% faster page load time.'
+    company: "Epam",
+    duration: "(Jul 2022 - Oct 2023)",
+    tools: ['React.js', 'Redux', 'Node.js', 'Express', 'RESTful APIs', 'Jest', 'Mocha', 'Agile', 'Jira'],
+    image: '/png/epam.png',
+    description: 'Engineered scalable React.js applications with Redux state management, delivering 40+ reusable UI components and leading UI redesigns across 6 internal web applications serving 10,000+ daily users. Designed and deployed 15+ RESTful backend services using Node.js and Express, improving cross-platform data exchange by 25% and achieving 99.9% uptime. Decreased application load times by 40% through React.js codebase refactoring, hooks optimization, and memoization. Increased code coverage to 90% using Jest and Mocha testing frameworks.'
   },
   {
     id: 4,
-    title: 'Software Engineer',
-    company: "La Net Team Software Solutions",
-    duration: "(Jan 2021 - Sept 2021)",
-    tools: ['React Native', 'TypeScript', 'Redux', 'AWS Amplify', 'AWS CloudWatch', 'AWS Pinpoint', 'Real-time Tracking', 'Multilingual Support'],
-    image: '/png/lanet.jpeg',
-    description: 'Designed and built a ridesharing application using React Native and TypeScript, integrating AWS services like Amplify, CloudWatch, and Pinpoint for efficient data management. Developed a restaurant application with real-time order tracking, interactive menus, and multilingual support, reducing order processing time by 30%.'
+    title: 'Programmer Analyst',
+    company: "Cognizant Technology Solutions",
+    duration: "(Dec 2021 - Jun 2022)",
+    tools: ['Talend', 'IBM DataStage', 'SQL', 'ETL', 'Data Pipelines', 'Data Integration', 'Monitoring'],
+    image: '/png/Cognizant.png',
+    description: 'Designed and implemented scalable, event-driven ETL pipelines using Talend, IBM DataStage, and SQL transformations, reducing data delivery times by 80% across high-volume financial systems. Architected ETL pipelines with built-in monitoring, error handling, and retry mechanisms, achieving 99.9% uptime for critical data workflows. Partnered with product teams and data scientists to build foundational datasets, enabling real-time reporting with 99% data accuracy.'
   },
-   {
-    id: 5,
-    title: "Software Intern",
-    company: "Mokshit Infotech",
-    duration: "(May 2020 - Dec 2020)",
-    tools: ["React Native", "Node.js", "TypeScript", "Azure Services"],
-    image: '/png/mokshit.jpeg',
-    description: [
-      "Developed and maintained a cross-platform mobile application using React Native, seamlessly integrating Azure services to support and manage over 10,000 daily active users. Optimized server-side APIs with Node.js and TypeScript, reducing response times by 30% and enabling efficient data handling."
-    ]
-  } 
-]
 
+]
