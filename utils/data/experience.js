@@ -28,12 +28,12 @@ export const experiences = [
   },
   {
     id: 4,
-    title: 'Programmer Analyst',
+    title: 'Software Engineer',
     company: "Cognizant Technology Solutions",
-    duration: "(Dec 2021 - Jun 2022)",
-    tools: ['Talend', 'IBM DataStage', 'SQL', 'ETL', 'Data Pipelines', 'Data Integration', 'Monitoring'],
+    duration: "(Jun 2021 - Jun 2022)",
+    tools: ['React.js', 'TypeScript', 'AWS AppSync', 'DynamoDB', 'Cognito', 'Redux', 'Node.js', 'Express', 'Docker'],
     image: '/png/Cognizant.png',
-    description: 'Designed and implemented scalable, event-driven ETL pipelines using Talend, IBM DataStage, and SQL transformations, reducing data delivery times by 80% across high-volume financial systems. Architected ETL pipelines with built-in monitoring, error handling, and retry mechanisms, achieving 99.9% uptime for critical data workflows. Partnered with product teams and data scientists to build foundational datasets, enabling real-time reporting with 99% data accuracy.'
+    description: 'Built a scalable online bookstore using React.js and TypeScript with an AWS backend (AppSync, DynamoDB, Cognito), providing real-time inventory updates, advanced search and filtering, persistent wishlist and cart, user authentication, and multilingual support — reducing average checkout time by 30%. Managed React components with Redux to boost developer productivity by 50–60% and increase code reusability. Implemented server-side logic with Node.js and Express, improving response times by 15%. Containerized services with Docker to standardize environments and reduce setup time by 40%.'
   },
 
 ]
