@@ -2,8 +2,8 @@ export const videos = [
   {
     "id": 1,
     "title": "LLM Vulnerability Scanner",
-    "url": "https://www.youtube.com/embed/tI493BJ6mtM",
-    "videourl": "https://www.youtube.com/watch?v=tI493BJ6mtM"
+    "url": "https://www.youtube.com/embed/Bc_rYRQbYI0",
+    "videourl": "https://www.youtube.com/watch?v=Bc_rYRQbYI0"
   },
   {
     "id": 2,

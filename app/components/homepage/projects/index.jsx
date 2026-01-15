@@ -42,7 +42,7 @@ const Projects = () => {
         
 
       <div>
-      <VideoCarousel videosData={videos} />
+      {/* <VideoCarousel videosData={videos} /> */}
     </div>
     </div>
   );
