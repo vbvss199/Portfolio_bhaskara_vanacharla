@@ -26,6 +26,7 @@
     "swiper": "^11.2.1"
   },
   "devDependencies": {
+    "@svgr/webpack": "^8.1.0",
     "autoprefixer": "latest",
     "eslint": "^9.39.1",
     "eslint-config-next": "15.1.1",
