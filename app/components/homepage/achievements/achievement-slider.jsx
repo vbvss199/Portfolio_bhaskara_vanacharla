@@ -39,7 +39,7 @@ const AchievementCarousel = ({ achievementsData }) => {
             </div>
           </div>
         ))}
-      </div>
+      </div>``
     </div>
   );
 };
