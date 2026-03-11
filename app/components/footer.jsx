@@ -15,7 +15,7 @@ function Footer() {
             © Developer Portfolio by{" "}
             <Link
               target="_blank"
-              href="https://www.linkedin.com/in/bhaskara-vanacharla-226740169/"
+              href="https://www.linkedin.com/in/vanacharla-bhaskara-226740169/"
               className="text-[#16f2b3]"
             >
               Bhaskara Vanacharla

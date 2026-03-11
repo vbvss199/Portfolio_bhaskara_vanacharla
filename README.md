@@ -142,7 +142,7 @@ export const personalData = {
   phone: "+2034442447",
   address: "West Haven CT, USA (Open to relocation)",
   github: "https://github.com/vbvss199",
-  linkedIn: "https://www.linkedin.com/in/bhaskara-vanacharla-226740169/",
+  linkedIn: "https://www.linkedin.com/in/vanacharla-bhaskara-226740169/",
   stackOverflow:
     "https://stackoverflow.com/users/31909654/4h2-vanacharla-bhaskara-vijaya",
   leetcode: "https://leetcode.com/u/22M1yfqB57/",
