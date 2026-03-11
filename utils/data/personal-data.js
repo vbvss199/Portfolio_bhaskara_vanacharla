@@ -1,6 +1,6 @@
 export const personalData = {
   name: "BHASKARA VANACHARLA",
-  profile: "profile3.JPG",
+  profile: "/profile3.JPG",
   designation: "Software Engineer",
   description:
     "Hey there, I'm BHASKARA VANACHARLA! I'm a developer who finds genuine joy in writing clean, maintainable code and solving complex problems. Whether it's debugging at midnight or exploring emerging technologies, I approach every challenge with curiosity and determination. My philosophy? Learn by doing, iterate constantly, and never stop growing.",
@@ -16,5 +16,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/22M1yfqB57/",
   devUsername: "bhaskaravanacharla",
   resume:
-    "https://drive.google.com/file/d/1bjMJmY8FqC5kWuWbl0A3Rjxa7MQ00Zuc/view?usp=sharing",
+    "https://drive.google.com/file/d/1fiUKTzIVTE14IlSZRJMheYrLZtrkFyRN/view?usp=sharing",
 };
