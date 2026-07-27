@@ -146,9 +146,9 @@ export const personalData = {
   stackOverflow:
     "https://stackoverflow.com/users/31909654/4h2-vanacharla-bhaskara-vijaya",
   leetcode: "https://leetcode.com/u/22M1yfqB57/",
-  devUsername: "bhaskaravanacharla",
+  devUsername: "bhaskara vanacharla",
   resume:
-    "https://drive.google.com/file/d/1fiUKTzIVTE14IlSZRJMheYrLZtrkFyRN/view?usp=sharing",
+    "https://docs.google.com/document/d/1VlMGdkuSw9frcF3Y5S3jOVLHbCa1pN95fmAdLuPOwJM/edit?usp=sharing",
 };
 ```
 
