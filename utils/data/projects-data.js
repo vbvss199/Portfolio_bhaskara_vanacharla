@@ -1,6 +1,24 @@
 export const projectsData = [
     {
         id: 1,
+        name: 'Distributed Real-Time Event Processing Platform',
+        tools: ['Kafka', 'Spring Boot', 'React.js', 'PostgreSQL', 'Docker', 'Prometheus', 'Grafana'],
+        role: "Software Engineer",
+        code: '',
+        demo: '',
+        description: 'Designed a Kafka pipeline ingesting 50,000+ events/sec from simulated IoT producers with sub-200ms latency. Deployed on Docker Compose with Prometheus/Grafana dashboards that caught 3 consumer-group failures before user impact.'
+    },
+    {
+        id: 2,
+        name: 'Rental Marketplace Platform',
+        tools: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'AWS S3', 'WebSockets'],
+        role: "Software Engineer",
+        code: '',
+        demo: '',
+        description: 'Built a MERN rental marketplace with geospatial queries and real-time availability via WebSockets for 250+ listings. Added compound indexing that cut average query time from 850ms to 95ms under 300 concurrent users.'
+    },
+    {
+        id: 3,
         name: 'LLM Vulnerability Scanner',
         tools: ['Python', 'FastAPI', 'Streamlit', 'Docker', 'Ollama', 'Llama Guard', 'Security Testing'],
         role: "Software Engineer",
@@ -9,7 +27,7 @@ export const projectsData = [
         description: 'Developed a comprehensive security testing tool for Large Language Models using FastAPI and Streamlit. Implemented automated vulnerability scanning leveraging Llama Guard to detect potential security risks, prompt injections, and unsafe outputs. Containerized the application with Docker for seamless deployment and scalability across different environments.'
     },
     {
-        id: 2,
+        id: 4,
         name: 'YOLOv5s Parking Space Classifier',
         tools: ['Python', 'PyTorch', 'YOLOv5', 'Computer Vision', 'Flask', 'Google Colab', 'Git', 'Pattern Recognition'],
         role: "Software Engineer",
@@ -18,7 +36,7 @@ export const projectsData = [
         description: 'Built a real-time parking space detection system using YOLOv5s object detection model trained on custom datasets. Implemented computer vision techniques for pattern recognition to classify occupied vs. available parking spots with 95% accuracy. Deployed the model using Gradio, enabling real-time inference for parking management systems.'
     },
     {
-        id: 3,
+        id: 5,
         name: 'Tic-Tac-Toe AI with Minimax and MCTS',
         tools: ['Python', 'Minimax Algorithm', 'Monte Carlo Tree Search', 'Game Theory', 'AI', 'Algorithm Optimization'],
         role: "Software Engineer",
@@ -28,7 +46,7 @@ export const projectsData = [
     },
        // ...existing code...
     {
-        id: 4,
+        id: 6,
         name: 'Adaptive Multimedia Streaming in Wireless Networks',
         tools: ['NS-3', 'C++', 'MPEG-DASH', 'WLAN', 'HTTP', 'Network Simulation', 'Quality of Service', 'UDP', 'RTP', 'LTE'],
         role: "Software Engineer",
@@ -38,7 +56,7 @@ export const projectsData = [
     },
     // ...existing code...
     {
-        id: 5,
+        id: 7,
         name: 'Retinal Disease Classification on OCT Images',
         tools: ['Python', 'TensorFlow', 'Keras', 'Xception', 'ResNet50', 'Transfer Learning', 'Medical Imaging', 'Deep Learning', 'Data Augmentation'],
         role: "Software Engineer",

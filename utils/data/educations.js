@@ -12,7 +12,7 @@ export const educations = [
     title: "Bachelors Degree",
     duration: "2018 - 2022",
     institution: "Anurag Group of Institutions",
-    gpa: "CGPA: 8.5/10",
+    gpa: "GPA: 3.4/4.0",
     image: '/png/Anurag.png'
   }
 
